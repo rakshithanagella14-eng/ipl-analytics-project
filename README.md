@@ -64,4 +64,4 @@ streamlit run dashboard/app.py   # launches interactive dashboard
 Python, Pandas, NumPy, SQLite, Matplotlib, SciPy, Streamlit, Plotly
 
 ## Author
-Panduu — ECE, Final Year, SPMVV | Avishkarana Andhra Summer Internship
+Nagella Rakshitha — ECE, Final Year, SPMVV | Avishkarana Andhra Summer Internship
